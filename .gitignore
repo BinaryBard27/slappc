@@ -1,0 +1,11 @@
+__pycache__/
+build/
+dist/
+*.pyc
+*.log
+*.tmp
+build.zip
+output.log
+debug.log
+gen.log
+

@@ -1,0 +1,17 @@
+{
+  "sensitivity": 0.35,
+  "cooldown": 1.0,
+  "sound_pack": "pack_scream",
+  "volume": 1.0,
+  "detection_enabled": true,
+  "minimize_to_tray": true,
+  "usb_moaner": false,
+  "launch_at_login": false,
+  "slap_count": 1,
+  "screen_flash": true,
+  "screen_shake": true,
+  "comic_text": true,
+  "glass_crack": false,
+  "confetti": false,
+  "disable_effects": false
+}
